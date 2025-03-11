@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Baxter",
+    "type": "Dog",
+    "breed": "Beagle",
+    "age": 5,
+    "gender": "Male",
+    "image": "images/dog1.jpg",
+    "description": "A friendly Beagle who loves long walks."
+  },
+  {
+    "id": 2,
+    "name": "Luna",
+    "type": "Cat",
+    "breed": "Maine Coon",
+    "age": 3,
+    "gender": "Female",
+    "image": "images/cat1.jpg",
+    "description": "A gentle Maine Coon who loves bird-watching."
+  },
+  {
+    "id": 3,
+    "name": "Sandy",
+    "type": "Dog",
+    "breed": "Golden Retriever",
+    "age": 7,
+    "gender": "Female",
+    "image": "images/dog2.jpg",
+    "description": "A Golden Retriever who loves to swim and fetch."
+  },
+  {
+    "id": 4,
+    "name": "Oliver",
+    "type": "Cat",
+    "breed": "Siamese",
+    "age": 2,
+    "gender": "Male",
+    "image": "images/cat2.jpg",
+    "description": "A vocal Siamese who loves attention."
+  },
+  {
+    "id": 5,
+    "name": "Max",
+    "type": "Dog",
+    "breed": "Labrador Retriever",
+    "age": 4,
+    "gender": "Male",
+    "image": "images/dog3.jpg",
+    "description": "A playful Labrador who enjoys the outdoors."
+  },
+  {
+    "id": 6,
+    "name": "Daisy",
+    "type": "Cat",
+    "breed": "Persian",
+    "age": 6,
+    "gender": "Female",
+    "image": "images/cat3.jpg",
+    "description": "A beautiful Persian cat who loves being pampered."
+  }
+]
