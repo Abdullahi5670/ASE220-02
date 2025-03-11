@@ -7,7 +7,7 @@
     "age": 5,
     "gender": "Male",
     "image": "images/dog1.jpg",
-    "description": "A friendly Beagle who loves long walks."
+    "description": "Loves outdoor walks and playing fetch."
   },
   {
     "id": 2,
@@ -17,46 +17,166 @@
     "age": 3,
     "gender": "Female",
     "image": "images/cat1.jpg",
-    "description": "A gentle Maine Coon who loves bird-watching."
+    "description": "A gentle and friendly cat who loves bird-watching."
   },
   {
     "id": 3,
-    "name": "Sandy",
+    "name": "Charlie",
     "type": "Dog",
-    "breed": "Golden Retriever",
-    "age": 7,
-    "gender": "Female",
+    "breed": "Labrador Retriever",
+    "age": 4,
+    "gender": "Male",
     "image": "images/dog2.jpg",
-    "description": "A Golden Retriever who loves to swim and fetch."
+    "description": "Enjoys swimming and is great with kids."
   },
   {
     "id": 4,
-    "name": "Oliver",
+    "name": "Milo",
     "type": "Cat",
     "breed": "Siamese",
     "age": 2,
     "gender": "Male",
     "image": "images/cat2.jpg",
-    "description": "A vocal Siamese who loves attention."
+    "description": "Curious and loves to climb furniture."
   },
   {
     "id": 5,
-    "name": "Max",
+    "name": "Sophie",
     "type": "Dog",
-    "breed": "Labrador Retriever",
-    "age": 4,
-    "gender": "Male",
+    "breed": "Golden Retriever",
+    "age": 6,
+    "gender": "Female",
     "image": "images/dog3.jpg",
-    "description": "A playful Labrador who enjoys the outdoors."
+    "description": "A friendly dog who enjoys long hikes."
   },
   {
     "id": 6,
-    "name": "Daisy",
+    "name": "Cleo",
     "type": "Cat",
-    "breed": "Persian",
-    "age": 6,
+    "breed": "Bengal",
+    "age": 1,
     "gender": "Female",
     "image": "images/cat3.jpg",
-    "description": "A beautiful Persian cat who loves being pampered."
+    "description": "Loves to explore and is very playful."
+  },
+  {
+    "id": 7,
+    "name": "Rocky",
+    "type": "Dog",
+    "breed": "Boxer",
+    "age": 5,
+    "gender": "Male",
+    "image": "images/dog4.jpg",
+    "description": "Energetic and enjoys running around."
+  },
+  {
+    "id": 8,
+    "name": "Mittens",
+    "type": "Cat",
+    "breed": "Persian",
+    "age": 4,
+    "gender": "Female",
+    "image": "images/cat4.jpg",
+    "description": "Loves being pampered and getting belly rubs."
+  },
+  {
+    "id": 9,
+    "name": "Duke",
+    "type": "Dog",
+    "breed": "Husky",
+    "age": 3,
+    "gender": "Male",
+    "image": "images/dog5.jpg",
+    "description": "Full of energy and enjoys the snow."
+  },
+  {
+    "id": 10,
+    "name": "Oreo",
+    "type": "Cat",
+    "breed": "Tuxedo",
+    "age": 2,
+    "gender": "Male",
+    "image": "images/cat5.jpg",
+    "description": "Very affectionate and loves to cuddle."
+  },
+  {
+    "id": 11,
+    "name": "Buddy",
+    "type": "Dog",
+    "breed": "Pug",
+    "age": 4,
+    "gender": "Male",
+    "image": "images/dog6.jpg",
+    "description": "Small but full of personality."
+  },
+  {
+    "id": 12,
+    "name": "Whiskers",
+    "type": "Cat",
+    "breed": "British Shorthair",
+    "age": 5,
+    "gender": "Male",
+    "image": "images/cat6.jpg",
+    "description": "Very calm and relaxed, perfect for indoor life."
+  },
+  {
+    "id": 13,
+    "name": "Zoey",
+    "type": "Dog",
+    "breed": "Corgi",
+    "age": 2,
+    "gender": "Female",
+    "image": "images/dog7.jpg",
+    "description": "Loves running around and playing."
+  },
+  {
+    "id": 14,
+    "name": "Simba",
+    "type": "Cat",
+    "breed": "Savannah",
+    "age": 3,
+    "gender": "Male",
+    "image": "images/cat7.jpg",
+    "description": "Very active and needs space to play."
+  },
+  {
+    "id": 15,
+    "name": "Rex",
+    "type": "Dog",
+    "breed": "German Shepherd",
+    "age": 6,
+    "gender": "Male",
+    "image": "images/dog8.jpg",
+    "description": "Loyal and protective, great with families."
+  },
+  {
+    "id": 16,
+    "name": "Fluffy",
+    "type": "Cat",
+    "breed": "Ragdoll",
+    "age": 4,
+    "gender": "Female",
+    "image": "images/cat8.jpg",
+    "description": "Loves sleeping and being brushed."
+  },
+  {
+    "id": 17,
+    "name": "Toby",
+    "type": "Dog",
+    "breed": "Border Collie",
+    "age": 5,
+    "gender": "Male",
+    "image": "images/dog9.jpg",
+    "description": "Very intelligent and enjoys training."
+  },
+  {
+    "id": 18,
+    "name": "Shadow",
+    "type": "Cat",
+    "breed": "Black Domestic Shorthair",
+    "age": 3,
+    "gender": "Male",
+    "image": "images/cat9.jpg",
+    "description": "Mysterious and independent but very loving."
   }
 ]
